@@ -1,4 +1,6 @@
-
+//本代码为SFC ERC核心代码开源，后续将会陆续添加应用功能以及节点开源，其他开发者无需留言提问，本团队将不会解答SFC以外的项目问题
+//This code is SFC ERC core code open source, the next will be added application features and nodes open source.
+other developers do not need to leave a message to ask questions, this team will not answer project questions outside of SFC
 pragma solidity ^0.6.2;
 contract ERC20Interface {
   string public name;
